@@ -1,0 +1,14 @@
+{
+  "callback": {
+    "mean": 100.93,
+    "std_dev": 1.38
+  },
+  "promise": {
+    "mean": 100.21,
+    "std_dev": 1.43
+  },
+  "asyncAwait": {
+    "mean": 99.78,
+    "std_dev": 1.2
+  }
+}

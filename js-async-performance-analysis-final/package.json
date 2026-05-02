@@ -1,0 +1,8 @@
+{
+  "name": "js-async-performance-analysis",
+  "version": "1.0.0",
+  "main": "src/benchmark.js",
+  "scripts": {
+    "start": "node src/benchmark.js"
+  }
+}
